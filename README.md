@@ -19,4 +19,4 @@ Minecraft Bedrock Edition Texture Explorer
 
 1. Allows for viewing Minecraft textures (animated and static)
 
-2. Allows exporting to GIF for animated textures
+2. Allows for exporting to GIF for animated textures
